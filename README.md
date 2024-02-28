@@ -111,7 +111,7 @@ ai_brain.predict(x_n1_1)
 
 ### New Sample Data Prediction
 
-![Uploading Screenshot 2024-02-28 105912.png…]()
+![Screenshot 2024-02-28 105912](https://github.com/Sachin-vlr/basic-nn-model/assets/113497666/c1926452-53b9-41fe-a65f-21c0aecf5dac)
 
 ## RESULT
 
