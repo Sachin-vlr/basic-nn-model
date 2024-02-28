@@ -102,7 +102,7 @@ ai_brain.predict(x_n1_1)
 
 ### Training Loss Vs Iteration Plot
 
-![Screenshot 2024-02-28 110034](https://github.com/Sachin-vlr/basic-nn-model/assets/113497666/5745756c-e4b2-4845-bc19-827b978c673d)
+![image](https://github.com/Sachin-vlr/basic-nn-model/assets/113497666/fd8ecc7a-41f0-4128-9af4-bedc2454243a)
 
 
 ### Test Data Root Mean Squared Error
