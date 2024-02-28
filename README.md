@@ -107,11 +107,11 @@ ai_brain.predict(x_n1_1)
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![image](https://github.com/Sachin-vlr/basic-nn-model/assets/113497666/22bc2935-409e-4bf0-9a99-20d6eb7bc89a)
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![Uploading Screenshot 2024-02-28 105912.png…]()
 
 ## RESULT
 
