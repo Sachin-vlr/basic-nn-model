@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-![261682322-c47bb649-7c5e-49b9-a94e-5191c1fdb8e6](https://github.com/Sachin-vlr/basic-nn-model/assets/113497666/7e0b1891-0771-4091-bdaf-9c7a702b0892)
+![image](https://github.com/Sachin-vlr/basic-nn-model/assets/113497666/e89d2888-b469-47b3-8d48-5c98925cd0b9)
 
 ## DESIGN STEPS
 
